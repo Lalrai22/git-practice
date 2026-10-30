@@ -23,3 +23,10 @@ print(add(5, 3))
 print(sub(10, 4))
 print(mul(2, 6))
 print(div(8, 2))
+
+
+def power(a, b):
+    return a ** b
+
+
+print(power(2, 3))
